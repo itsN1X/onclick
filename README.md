@@ -1,2 +1,2 @@
 # onclick
-onclaick fails on mobile devices
+onclick fails on mobile devices
